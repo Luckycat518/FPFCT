@@ -1,4 +1,4 @@
-# FPFCT<sup>📌</sup>
+# FPFCT：For Industrial Image Super Resolution<sup>📌</sup>
 <a href="https://github.com/Luckycat518"><img src="https://img.shields.io/badge/GitHub-@Luckycat518-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
 <a href="https://charmve.github.io/computer-vision-in-action/" target="_blank"><img src="https://img.shields.io/badge/Computer Vision-000000.svg?logo=GitBook" alt="Computer Vision in Action"></a>
 [![License](https://img.shields.io/github/license/Charmve/Surface-Defect-Detection)](LICENSE)
@@ -6,12 +6,11 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-- [Key Problem in weld surface defect detection](#1-key-issues-in-weld-surface-defect-detection)
-  - [External interference](#1external-impurity-interference)
-  - [Adjacent interaction interference](#2adjacent-interaction-interference)
-  - [Similarity interference](#3similarity-interference)
+- [Comparison with SOTA methods](#1-key-issues-in-weld-surface-defect-detection)
+  - [In public datasets](#1external-impurity-interference)
+  - [In WCI110](#2adjacent-interaction-interference)
 - [Our Dataset](#2-our-dataset-for-industrial-weld-surface-defect-detection)
-  - [Weld Surface Defect: WSD-DET](#1weld-surface-defect-wsd-det)
+  - [Welding Component Images: WCI110](#1weld-surface-defect-wsd-det)
 - [Notification](#notification)
 - [Citation](#citation)
 
@@ -37,7 +36,7 @@ WCI110 can be used for image super resolution tasks.
 
 
 
-## 1. Comparison with SOTA methods
+## 2. Comparison with SOTA methods
 
 ### 1）In public datasets
 
