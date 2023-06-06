@@ -42,7 +42,6 @@ WCI110 can be used for image super resolution tasks.
 
 <p> The PSNR and SSIM of FPFCT are higher than other advanced SR methods and comparable to that of the SOTA SwinIR-light model almost in all the five public standard datasets and the self-established industrial dataset in all three scales. However, the model parameters are reduced by more than 37.5%, and the FLOPs are reduced by more than 25.6% compared to SwinIR-light in all three scales. </p>
 
-
 <div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/comparison.jpg"></div>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
