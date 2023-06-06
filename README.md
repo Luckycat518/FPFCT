@@ -6,11 +6,11 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-- [Comparison with SOTA methods](#1-key-issues-in-weld-surface-defect-detection)
-  - [In public datasets](#1external-impurity-interference)
-  - [In WCI110](#2adjacent-interaction-interference)
-- [Our Dataset](#2-our-dataset-for-industrial-weld-surface-defect-detection)
-  - [Welding Component Images: WCI110](#1weld-surface-defect-wsd-det)
+- [Comparison with SOTA methods](#1-Comparison-with-SOTA-methods)
+  - [In public datasets](#1-In-public-datasets)
+  - [In WCI110](#2-In-WCI110)
+- [Our Dataset](#2-our-dataset-for-Industrial-Image-Super-Resolution)
+  - [Welding Component Images: WCI110](#1-Welding-Component-Images-WCI110)
 - [Notification](#notification)
 - [Citation](#citation)
 
@@ -30,7 +30,7 @@
 
 WCI110 can be used for image super resolution tasks.
 
-![image](https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset-description.jpg)
+![image](https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg)
 <div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg"></div>
 
 <p>The WCI110 contains <b>110</b> pictures with a total of <b>110</b> HR welding component surface images under 2040×1524 pixels. For this dataset, there are three typical scenarios, including global view with component structure background, and detail views focusing on the unground weld and ground weld. </p>
