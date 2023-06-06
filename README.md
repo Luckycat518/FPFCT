@@ -31,7 +31,7 @@
 WCI110 can be used for image super resolution tasks.
 
 ![image](https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset-description.jpg)
-<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/comparison.jpg"></div>
+<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg"></div>
 
 <p>The WCI110 contains <b>110</b> pictures with a total of <b>110</b> HR welding component surface images under 2040×1524 pixels. For this dataset, there are three typical scenarios, including global view with component structure background, and detail views focusing on the unground weld and ground weld. </p>
 
