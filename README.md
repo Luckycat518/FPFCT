@@ -30,7 +30,6 @@
 
 WCI110 can be used for image super resolution tasks.
 
-![image](https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg)
 <div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg"></div>
 
 <p>The WCI110 contains <b>110</b> pictures with a total of <b>110</b> HR welding component surface images under 2040×1524 pixels. For this dataset, there are three typical scenarios, including global view with component structure background, and detail views focusing on the unground weld and ground weld. </p>
@@ -43,7 +42,7 @@ WCI110 can be used for image super resolution tasks.
 
 <p> The PSNR and SSIM of FPFCT are higher than other advanced SR methods and comparable to that of the SOTA SwinIR-light model almost in all the five public standard datasets and the self-established industrial dataset in all three scales. However, the model parameters are reduced by more than 37.5%, and the FLOPs are reduced by more than 25.6% compared to SwinIR-light in all three scales. </p>
 
-![image](https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/comparison.jpg)
+
 <div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/comparison.jpg"></div>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
