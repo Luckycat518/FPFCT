@@ -14,7 +14,7 @@
 - [Notification](#notification)
 - [Citation](#citation)
 
-## Notification：Something wrong for uploading files，the authors are trying their best to solve this problem！--20230531
+
 
 ## Introduction
 
@@ -30,7 +30,7 @@
 
 WCI110 can be used for image super resolution tasks.
 
-<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/dataset_description.jpg"></div>
+<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/Dataset_description.jpg"></div>
 
 <p>The WCI110 contains <b>110</b> pictures with a total of <b>110</b> HR welding component surface images under 2040×1524 pixels. For this dataset, there are three typical scenarios, including global view with component structure background, and detail views focusing on the unground weld and ground weld. </p>
 
@@ -42,13 +42,15 @@ WCI110 can be used for image super resolution tasks.
 
 <p> The PSNR and SSIM of FPFCT are higher than other advanced SR methods and comparable to that of the SOTA SwinIR-light model almost in all the five public standard datasets and the self-established industrial dataset in all three scales. However, the model parameters are reduced by more than 37.5%, and the FLOPs are reduced by more than 25.6% compared to SwinIR-light in all three scales. </p>
 
-<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/comparison.jpg"></div>
+<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/Comparison_on_Manga109.jpg"></div>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
 ### 2）In WCI110
 
 <p> For three typical target, including workpiece scratches, surface rust and weld corrugation characteristics, the super-resolution repair ability of FPFCT is comparable to that of SwinIR-light, and it is ahead of other advanced methods. Moreover, it can be noticed that compared with the slimming target in SR image obtained by SwinIR-light, the target of FPFCT is closer to ground truth (GT) in terms of size. </p>
+
+<div align=center><img src="https://github.com/Luckycat518/FPFCT/blob/main/Cover_Image/Comparison_on_WCI110.jpg"></div>
 
 👆 [<b>BACK to Table of Contents</b> -->](#table-of-contents)
 
